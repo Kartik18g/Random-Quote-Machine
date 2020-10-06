@@ -6,9 +6,9 @@ const Footer = () => {
       <footer className="page-footer font-small">
         <div className="footer-copyright text-center py-3 text-white">
           © 2020
-          <a href="https://github.com/PriyaBihani" className="text-white">
+          <a href="https://github.com/KartikGupta" className="text-white">
             {" "}
-            By Priya Bihani{" "}
+            By Kartik Gupta{" "}
           </a>
         </div>
       </footer>
